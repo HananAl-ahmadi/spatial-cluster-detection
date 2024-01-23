@@ -11,14 +11,6 @@
 
 # The reason of changing is the two lines are not working withme, mabye becuase there is updat in INLA
 
-
-
-
-
-
-
-
-
 library(SpatialEpi)
 library(sp)
 library(sf)

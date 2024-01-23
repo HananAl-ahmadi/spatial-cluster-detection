@@ -1,6 +1,3 @@
-
-
-
 # Here I follow what Paula did here https://www.paulamoraga.com/book-geospatial/sec-arealdataexamplespatial.html
 # Except that I changed the following tow lines of the code 
 # marg <- res$marginals.fitted.values[[1]]
